@@ -15,6 +15,5 @@ cd giltch
 
 chmod +x giltch.py
 
-chmod +x run.sh
 
-./run.sh
+python3 giltch.py
